@@ -89,10 +89,7 @@ streamlit run streamlit-app/app.py
 
 ### 📷 Sample Input/Output
 
-| Input Image | Detected Output |
-|-------------|-----------------|
-[| ![sample1](streamlit-app/sample_input.jpg) | ![output1](outputs/sample_output.jpg) |
-](https://images.app.goo.gl/9EaDt6WskxJ5YGDN7)
+https://images.app.goo.gl/9EaDt6WskxJ5YGDN7
 
 ---
 
