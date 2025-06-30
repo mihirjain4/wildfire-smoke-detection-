@@ -115,9 +115,7 @@ streamlit run streamlit-app/app.py
 
 ### 📬 Contact
 
-**Mihir Jain**  
-📧 mihirjain@example.com  
-🔗 [GitHub](https://github.com/mihirjain4) | [LinkedIn](https://linkedin.com/in/mihirjain4)
+**Mihir Shah**  
 
 ---
 
