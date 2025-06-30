@@ -89,7 +89,10 @@ streamlit run streamlit-app/app.py
 
 ### 📷 Sample Input/Output
 
-https://images.app.goo.gl/9EaDt6WskxJ5YGDN7
+![Output](https://user-images.githubusercontent.com/61203589/90666480-156de100-e213-11ea-856c-fcf7ee1fae4b.gif)
+![Output](https://user-images.githubusercontent.com/61203589/90589985-051f1d00-e1a5-11ea-9f94-a06bb98ad19e.gif)
+
+
 
 ---
 
