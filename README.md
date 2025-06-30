@@ -1,3 +1,4 @@
+
 # 🔥 Wildfire Smoke Detection Using YOLOv8
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
@@ -47,3 +48,77 @@ wildfire-smoke-detection-/
 ├── outputs/               # Detection results
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
+
+---
+
+### 🛠️ Installation
+
+#### 1. Clone the Repository
+```bash
+git clone https://github.com/mihirjain4/wildfire-smoke-detection-.git
+cd wildfire-smoke-detection-
+```
+
+#### 2. Set Up Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+#### 3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+#### 4. Add YOLOv8 Model Weights
+Download your trained `.pt` model and place it in:
+```
+yolov8-model/
+```
+
+---
+
+### 🚀 Run Streamlit App
+
+```bash
+streamlit run streamlit-app/app.py
+```
+
+---
+
+### 📷 Sample Input/Output
+
+| Input Image | Detected Output |
+|-------------|-----------------|
+[| ![sample1](streamlit-app/sample_input.jpg) | ![output1](outputs/sample_output.jpg) |
+](https://images.app.goo.gl/9EaDt6WskxJ5YGDN7)
+
+---
+
+### 🧭 Future Improvements
+
+- 🔁 Live webcam/streaming integration
+- 📡 IoT integration with real-time alerts
+- 🎯 Add support for fire flame detection
+- 💻 Edge device deployment (Jetson Nano, Raspberry Pi)
+
+---
+
+### 🙏 Acknowledgments
+
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
+- [Roboflow Datasets](https://roboflow.com/)
+- [OpenCV](https://opencv.org/), [PyTorch](https://pytorch.org/), [Streamlit](https://streamlit.io/)
+
+---
+
+### 📬 Contact
+
+**Mihir Jain**  
+📧 mihirjain@example.com  
+🔗 [GitHub](https://github.com/mihirjain4) | [LinkedIn](https://linkedin.com/in/mihirjain4)
+
+---
+
+> ⚠️ *This project is for research and educational purposes only.*
